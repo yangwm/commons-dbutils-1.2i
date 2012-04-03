@@ -1,0 +1,12 @@
+
+1. Overview
+
+this project is improve the 1.2 version of Apache Commons Dbutils,
+supports efficient sql page.
+It's released under the Apache 2.0 License.
+
+2. Features
+* support common db and Optimize Performance with Oracle, Mysql, PostgreSQL 
+
+
+

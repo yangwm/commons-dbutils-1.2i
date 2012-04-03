@@ -1,0 +1,4 @@
+
+1. if need print sql can be :
+	1.1 please print.properties add to your classpath 
+	1.2 set PRINT_SQL is ture : PRINT_SQL=true
